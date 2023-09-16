@@ -3,12 +3,12 @@
 A simple Python Command Line Game Design
 
 ## Install
-
+```
 cd RabbitGame
-python -m venv ./venv
-source ./venv/bin/activate
+python -m venv venv
+venv/scripts/activate
 pip install -r requirements.txt
-
+```
 ## Gameplay
 
 - use `a` to move left and `d` to move right.
